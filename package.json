@@ -1,11 +1,11 @@
 {
   "name": "compressor",
   "version": "1.0.0",
-  "description": "It can resize and compress image and video as per user will and can make thumnail for video ",
+  "description": "An image and video compressor and thumbnail generation for video",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "Aman_Gound",
-  "license": "MIT"
+  "dependencies": {},
+  "devDependencies": {}
 }
