@@ -1,3 +1,11 @@
-git add package.json
-git commit -m "Add package.json"
-git push origin main
+{
+  "name": "compressor",
+  "version": "1.0.0",
+  "description": "It can resize and compress image and video as per user will and can make thumnail for video ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman_Gound",
+  "license": "MIT"
+}
